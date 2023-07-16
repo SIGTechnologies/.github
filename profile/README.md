@@ -1,3 +1,19 @@
-## The leading provider of quant technologies
+# Welcome to SigTech!
 
-SigTech’s award-winning platform ingests, cleans and validates financial data, and provides the tools to research, build, and deploy customized strategies – giving an edge in alpha generation. 
+<img src="https://8647283.fs1.hubspotusercontent-na1.net/hubfs/8647283/Github_homepageV1.png">
+
+## Leverage an award-winning backtesting platform used by institutional investors!
+Don't just take our word for it, see what the industry has to say!
+
+- [2023 - Best Trading Technology Provider](https://awards.hedgeweek.com/european-awards)
+- [2022 - Best Quant Technology Solution](https://awards.hedgeweek.com/european-awards-2022)
+
+With our new REST API, you too can leverage our industry leading platform. Take advantage of our curated data or ingest, clean and validate your own. Then research, build, and backtest customized investment strategies – giving you an edge in future alpha generation.
+
+It really is easy! Check out [How to get started with SigTech API](https://learn.sigtech.com/docs/introduction_api) to see how you can build, test, and evaluate a simple strategy in seconds!
+
+## Learn more!
+- Visit our [website](https://sigtech.com/products/apis/)!
+- Join our [Discord community](https://discord.gg/XcVJDYV4k7) and follow us on [Twitter](https://twitter.com/sigtechltd/).
+- Browse our [API data catalog](https://sigtechapi.streamlit.app/) and see the variety of instruments available.
+- Explore our [Python SDK](https://github.com/SIGTechnologies/sigtech-python) and check out our [Examples](https://github.com/SIGTechnologies/sigtech-python/tree/master/examples) to see the true extent of what's possible with our API. 
