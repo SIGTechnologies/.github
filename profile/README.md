@@ -8,12 +8,12 @@ We are the creators of an award-winning backtesting platform used by institution
 - [2023 - Best Trading Technology Provider](https://awards.hedgeweek.com/european-awards)
 - [2022 - Best Quant Technology Solution](https://awards.hedgeweek.com/european-awards-2022)
 
-## How can we help you
-Our latest product is a new REST API which enables everyone, whether you are a professional investor, a retail investor, a trading enthusiast or a university student to access our platform. 
+## How can we help you?
+Our latest product is a new REST API which enables **everyone**, whether you are a professional investor, a retail investor, a trading enthusiast or a university student, to access our platform. 
 
 Take advantage of our curated data or ingest, clean and validate your own. Then research, build, and backtest customized investment strategies – giving you an edge in future alpha generation.
 
-Interested? Visit our [website](https://sigtech.com/products/apis/) and sign-up for our API.
+Interested? [Sign-up for an account](https://sigtech.com/products/apis/).
 
 Once you have an account, you can [Get started with SigTech API](https://learn.sigtech.com/docs/introduction_api) in minutes. 
 
