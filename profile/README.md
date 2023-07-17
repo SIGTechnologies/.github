@@ -17,6 +17,8 @@ Check out [Get started with SigTech API](https://learn.sigtech.com/docs/introduc
 - Browse our [API data catalog](https://sigtechapi.streamlit.app/) to see the variety of instruments available
 - Explore our [Python SDK](https://github.com/SIGTechnologies/sigtech-python) and check out our detailed [Examples](https://github.com/SIGTechnologies/sigtech-python/tree/master/examples) to see to see how complex, real-world strategies can be replicated using our API. 
 
+## Need help?
+
 <a href="https://discord.gg/XcVJDYV4k7"><img src="https://8647283.fs1.hubspotusercontent-na1.net/hubfs/8647283/Discord.png"></a>
 
 <a href="https://twitter.com/sigtechltd/"><img src="https://8647283.fs1.hubspotusercontent-na1.net/hubfs/8647283/Twitter.png"></a>
