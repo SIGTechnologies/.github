@@ -15,7 +15,7 @@ Take advantage of our curated data or ingest, clean and validate your own. Then 
 
 Interested? [Sign-up for an account](https://sigtech.com/products/apis/).
 
-Once you have an account, you can [Get started with SigTech API](https://learn.sigtech.com/docs/introduction_api) in minutes. 
+Once you have an account, you can [Get started with SigTech API](https://learn.sigtech.com/docs/get_started) in minutes. 
 
 ## Learn more!
 - Browse our [API data catalog](https://sigtechapi.streamlit.app/) to see the variety of instruments available.
