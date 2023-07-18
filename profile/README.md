@@ -9,17 +9,17 @@ We are the creators of an award-winning backtesting platform used by institution
 - [2022 - Best Quant Technology Solution](https://awards.hedgeweek.com/european-awards-2022)
 
 ## How can we help you?
-Our latest product is a new REST API which enables **everyone**, whether you are a professional investor, a retail investor, a trading enthusiast or a university student, to access our platform. 
+Our newly launched REST API enables **everyone**, whether you are a professional investor, a retail investor, a trading enthusiast or a university student, to access our platform. 
 
-Take advantage of our curated data or ingest, clean and validate your own. Then research, build, and backtest customized investment strategies – giving you an edge in future alpha generation.
+Take advantage of our curated data or ingest, clean and validate your own. Then research, build, and backtest customized investment strategies – giving you an edge in beating the market.
 
-Interested? [Sign-up for an account](https://sigtech.com/products/apis/).
+Interested? [Sign up here for an account](https://sigtech.com/products/apis/).
 
-Once you have an account, you can [Get started with SigTech API](https://learn.sigtech.com/docs/get_started) in minutes. 
+Once you have an account, you can [get started with SigTech API](https://learn.sigtech.com/docs/get_started) in minutes. 
 
 ## Learn more!
 - Browse our [API data catalog](https://sigtechapi.streamlit.app/) to see the variety of instruments available.
-- Explore our [Python SDK](https://github.com/SIGTechnologies/sigtech-python) and check out our detailed [Examples](https://github.com/SIGTechnologies/sigtech-python/tree/master/examples) to see to see how complex, real-world strategies can be replicated using our API. 
+- Explore our [Python SDK](https://github.com/SIGTechnologies/sigtech-python) and check out our detailed [examples](https://github.com/SIGTechnologies/sigtech-python/tree/master/examples) to see how complex, real-world strategies can be built using our API. 
 
 ## Need help?
 Support is available via our Discord community and Twitter page.
