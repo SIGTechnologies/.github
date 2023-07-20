@@ -1,6 +1,6 @@
 # Welcome to SigTech!
 
-<img src="https://8647283.fs1.hubspotusercontent-na1.net/hubfs/8647283/Github_homepage_V2.png">
+<img src="https://8647283.fs1.hubspotusercontent-na1.net/hubfs/8647283/Github_homepage_V2-1.png">
 
 ## What we do
 We are the creators of an award-winning backtesting platform used by institutional investors. 
