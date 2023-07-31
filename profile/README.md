@@ -13,7 +13,7 @@ Our newly launched REST API enables **everyone**, whether you are a professional
 
 Take advantage of our curated data or ingest, clean and validate your own. Then research, build, and backtest customized investment strategies – giving you an edge in beating the market.
 
-Interested? [Sign up here for an account](https://sigtech.com/products/apis/).
+Interested? [Sign up here for an account](https://dashboard.sigtech.com/register).
 
 Once you have an account, you can [get started with SigTech API](https://learn.sigtech.com/docs/get_started) in minutes. 
 
@@ -24,7 +24,7 @@ Once you have an account, you can [get started with SigTech API](https://learn.s
 ## Need help?
 Support is available via our Discord community and Twitter page.
 <p align="center" id="dummy">
-    <a href="https://discord.gg/XcVJDYV4k7">
+    <a href="https://discord.gg/Y22aZcYZ">
         <img src="https://img.shields.io/badge/CHAT-DISCORD-blue?style=for-the-badge&logo=discord&labelColor=rgb(55,55,55)&color=blueviolet">
     </a>
      <a href="https://twitter.com/sigtechltd/">
