@@ -24,7 +24,7 @@ Once you have an account, you can [get started with SigTech API](https://learn.s
 ## Need help?
 Support is available via our Discord community and Twitter page.
 <p align="center" id="dummy">
-    <a href="https://discord.gg/Y22aZcYZ">
+    <a href="https://discord.gg/ZcFeutSrWM">
         <img src="https://img.shields.io/badge/CHAT-DISCORD-blue?style=for-the-badge&logo=discord&labelColor=rgb(55,55,55)&color=blueviolet">
     </a>
      <a href="https://twitter.com/sigtechltd/">
